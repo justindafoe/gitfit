@@ -1,5 +1,10 @@
 import React from 'react';
 import './Home.css';
+import logopineapple from './images/logopineapple.jpg';
+import logobeard from './images/logobeard.jpg';
+import logoumbrella from './images/logoumbrella.jpg';
+
+
 
 
 function Home() {
