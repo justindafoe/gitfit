@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gitfit/static/css/main.53d22585.chunk.css",
+    "main.js": "/gitfit/static/js/main.36559bb3.chunk.js",
+    "main.js.map": "/gitfit/static/js/main.36559bb3.chunk.js.map",
+    "runtime-main.js": "/gitfit/static/js/runtime-main.83c42af3.js",
+    "runtime-main.js.map": "/gitfit/static/js/runtime-main.83c42af3.js.map",
+    "static/js/2.a8e92e22.chunk.js": "/gitfit/static/js/2.a8e92e22.chunk.js",
+    "static/js/2.a8e92e22.chunk.js.map": "/gitfit/static/js/2.a8e92e22.chunk.js.map",
+    "index.html": "/gitfit/index.html",
+    "static/css/main.53d22585.chunk.css.map": "/gitfit/static/css/main.53d22585.chunk.css.map",
+    "static/js/2.a8e92e22.chunk.js.LICENSE.txt": "/gitfit/static/js/2.a8e92e22.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/gitfit/static/media/bkgImage.bfa41c67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c42af3.js",
+    "static/js/2.a8e92e22.chunk.js",
+    "static/css/main.53d22585.chunk.css",
+    "static/js/main.36559bb3.chunk.js"
+  ]
+}
