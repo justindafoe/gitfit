@@ -1,11 +1,11 @@
 import React from 'react';
 import './About.css';
-import charlespic from './images/charlespic.jpg';
+import charlespicture from './images/charlespicture.jpg';
 
  function About() {
     return (
         <div className="About">   
-           <img className="CharlesPic" src={charlespic} alt="Charles" />
+           <img className="CharlesPic" src={charlespicture} alt="Charles" />
            <h1 className="HeaderText">Who We Are</h1>
            <p className="paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero autem
                 nemo labore repellat eveniet esse quasi quis tempore qui nihil.
