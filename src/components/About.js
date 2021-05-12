@@ -4,7 +4,7 @@ import './About.css';
  function About() {
     return (
         <div className="About">   
-           <img className="CharlesPic" src="./images/charlesPic.jpg" alt="Charles" />
+           <img className="CharlesPic" src="./images/charlespic.jpg" alt="Charles" />
            <h1 className="HeaderText">Who We Are</h1>
            <p className="paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero autem
                 nemo labore repellat eveniet esse quasi quis tempore qui nihil.
