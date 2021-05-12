@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import charlespic from './images/charlespic';
+import charlespic from './images/charlespic.jpg';
 
  function About() {
     return (
