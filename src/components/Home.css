@@ -1,0 +1,15 @@
+.Home {
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    color: #fff;
+    padding-top: 115px;
+    text-shadow: 3px 5px rgb(123, 33, 33);
+    
+    font-family: 'Libre Franklin', sans-serif;
+}
+.GritFitLogo{
+    margin: 30px;
+    margin-bottom: 115px;
+    padding-top: 50px;
+}

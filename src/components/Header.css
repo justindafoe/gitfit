@@ -1,0 +1,16 @@
+.Header {
+    width: 100%;
+    height: 300px;
+    background: url(../components/bkgImage.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.instagram {
+    float: right;
+    padding-right: 25px;
+    padding-top: 75px;
+    position: relative;
+}
+
+
+ 
