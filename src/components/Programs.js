@@ -5,7 +5,7 @@ import programpic from './images/programpic';
 function Programs() {
     return (
         <div className="Programs">
-            <img className="programpic" src="./images/programpic.jpg" alt="program" />
+            <img className="programpic" src={programpic} alt="program" />
         </div>
     )
 }

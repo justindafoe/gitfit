@@ -5,7 +5,7 @@ import charlespic from './images/charlespic';
  function About() {
     return (
         <div className="About">   
-           <img className="CharlesPic" src="./images/charlespic.jpg" alt="Charles" />
+           <img className="CharlesPic" src={charlespic} alt="Charles" />
            <h1 className="HeaderText">Who We Are</h1>
            <p className="paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero autem
                 nemo labore repellat eveniet esse quasi quis tempore qui nihil.
