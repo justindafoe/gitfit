@@ -1,6 +1,6 @@
 import React from 'react';
 import './Programs.css';
-import programpic from './images/programpic.jpg';
+import programpic from '../images/programpic.jpg';
 
 function Programs() {
     return (
